@@ -1,0 +1,13 @@
+#header{
+	.logo{
+		margin: 0;
+		padding: 0;
+		a{
+			background-image: url(../images/logo.png);
+			text-indent: -9999px;
+			background-size: 100px 50px;
+			background-repeat: no-repeat;
+			background-color: black;
+		}
+	}
+}
